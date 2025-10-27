@@ -37,7 +37,7 @@
             border-radius: 15px; /* rounded corners */
             overflow: hidden;
             box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* shadow */
-            transition: all 0.3s ease; /* انتقال سلس للـ hover */
+            transition: all 0.3s ease; /* انتقال سلس للـ hove   * /
         }
 
         .project-card:hover {
